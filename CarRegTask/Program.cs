@@ -23,7 +23,7 @@
             {
                 charge = hours * 2 + 2;
             }
-            Console.WriteLine("£" + charge);
+            Console.WriteLine("The parking charge for " + hours + " is £" + charge);
             
             // rewrite line 12 to concatenate the car registration with the string is not valid
             // store the result in display message
